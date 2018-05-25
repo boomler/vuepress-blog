@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "vuepress-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "HaoWang-TW <hawang@thoughtworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.9.0"
+  }
+}
